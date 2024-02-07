@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 04:22:20
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 04:22:20 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 200 0 0 852
+2024-01-24 04:22:20 ::1 GET /iisstart.png - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://localhost/ 200 0 0 61
+2024-01-24 04:22:20 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://localhost/ 404 0 2 51
+2024-01-24 04:30:27 172.31.36.65 GET / - 80 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 200 0 0 129
+2024-01-24 04:30:27 172.31.36.65 GET /iisstart.png - 80 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://3.22.63.57/ 200 0 0 362
+2024-01-24 04:30:27 172.31.36.65 GET /favicon.ico - 80 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://3.22.63.57/ 404 0 2 247
+2024-01-24 04:33:05 172.31.36.65 GET / - 80 - 18.222.105.145 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_5)+AppleWebKit/602.2.14+(KHTML,+like+Gecko)+Version/10.0.1+Safari/602.2.14 - 200 0 0 0
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2024-01-24 04:36:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2024-01-24 04:36:15 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 304 0 0 3
+2024-01-24 04:36:15 ::1 GET /iisstart.png - 80 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://localhost/ 304 0 0 0
+2024-01-24 04:37:26 172.31.36.65 GET / - 443 - 172.31.36.65 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36+Edg/120.0.0.0 - 200 0 0 68
+2024-01-24 04:37:26 172.31.36.65 GET /iisstart.png - 443 - 172.31.36.65 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36+Edg/120.0.0.0 https://172.31.36.65/ 200 0 0 7
+2024-01-24 04:37:26 172.31.36.65 GET /favicon.ico - 443 - 172.31.36.65 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36+Edg/120.0.0.0 https://172.31.36.65/ 404 0 2 44
+2024-01-24 04:37:50 172.31.36.65 GET / - 80 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 304 0 0 108
+2024-01-24 04:37:50 172.31.36.65 GET /iisstart.png - 80 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 http://3.22.63.57/ 304 0 0 151
+2024-01-24 04:38:45 172.31.36.65 GET / - 443 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 - 200 0 0 179
+2024-01-24 04:38:45 172.31.36.65 GET /iisstart.png - 443 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 https://3.22.63.57/ 200 0 0 417
+2024-01-24 04:38:45 172.31.36.65 GET /favicon.ico - 443 - 93.162.98.150 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/120.0.0.0+Safari/537.36 https://3.22.63.57/ 404 0 2 110
